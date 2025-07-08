@@ -26,7 +26,6 @@ A Retrieval-Augmented Generation (RAG) powered system that intelligently answers
 ## ✨ Features
 
 - Handles text or PDFs from 100 to 10,000+ characters
-- CPU-friendly embeddings
 - Fast vector similarity search via FAISS
 - Groq-powered LLM response generation
 - Dynamic input for flexible document loading
@@ -45,7 +44,8 @@ A Retrieval-Augmented Generation (RAG) powered system that intelligently answers
 # Clone the repository
 git clone https://github.com/your-username/rag-project.git
 cd rag-project
-
+```
+```bash
 # Create requirements.txt
 echo "torch==2.0.1
 transformers==4.35.0
@@ -55,7 +55,8 @@ faiss-cpu==1.7.4
 pypdf2==3.0.1
 requests==2.31.0
 python-dotenv==1.0.1" > requirements.txt
-
+```
+```bash
 # Install dependencies
 pip install -r requirements.txt
 
@@ -91,7 +92,7 @@ Context: ['Large language models (LLMs) are built on transformer architectures..
 
 ## 👥 Contributors
 
-- Your Name
+- Hemanta Bhusal
 
 ## 🙏 Acknowledgements
 
