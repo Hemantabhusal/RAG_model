@@ -1,0 +1,11 @@
+Gradient descent is an optimization algorithm used to minimize a loss function in machine learning. It iteratively adjusts model parameters by moving in the direction of the negative gradient. Neural networks rely on gradient descent to learn weights and biases. Transformers are neural network architectures that use attention mechanisms to process sequential data, widely used in natural language processing.
+
+Backpropagation is the process of computing gradients of the loss function with respect to model parameters. It enables gradient descent to update weights effectively. Deep learning models, such as convolutional neural networks (CNNs), use backpropagation to train on large datasets. Attention mechanisms allow transformers to focus on relevant parts of the input, improving performance in tasks like translation.
+
+Large language models (LLMs) are built on transformer architectures. They are trained on massive datasets to generate human-like text. Retrieval-Augmented Generation (RAG) combines retrieval of relevant documents with LLMs to provide context-aware answers. Vector embeddings represent text as numerical vectors, enabling similarity search in RAG systems.
+
+Machine learning involves supervised, unsupervised, and reinforcement learning paradigms. Supervised learning uses labeled data to train models, while unsupervised learning finds patterns in unlabeled data. Reinforcement learning optimizes actions based on rewards. These paradigms are foundational to modern AI systems.
+
+Neural networks consist of layers of interconnected nodes, inspired by biological neurons. Each node, or perceptron, processes inputs with weights, biases, and an activation function. Deep neural networks have multiple layers, enabling complex pattern recognition. Transformers have revolutionized natural language processing with their attention-based architecture.
+
+Python is a popular language for machine learning due to its simplicity and powerful libraries like PyTorch and TensorFlow. These frameworks simplify building and training neural networks. Docker containers ensure reproducible environments for ML projects, while Git enables version control for collaborative development.
